@@ -1,0 +1,11 @@
+p {color:#015668;
+    background:#0D91A1;
+    border: 5px solid #7DCE94;
+    width:300px;
+    padding:10px 20px 30px 40px;
+    font-size:30px; font-family: 'Baloo Thambi 2', cursive;
+}
+
+#titulek {
+    background-color: brown;
+}
